@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate learner and enthusiast in the fie
 
 ## Ask Me About
 
-💬 RL, ML, Databases, Data Structures and Algorithms.
+💬 RL, ML, Databases,Data Structures and Algorithms.
 
 ## Personality Fact
 
